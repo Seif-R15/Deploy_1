@@ -1,4 +1,0 @@
-numpy==1.21.6
-pickle-mixin==1.0.2
-pickleshare==0.7.5
-scikit-learn
